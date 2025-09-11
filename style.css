@@ -5,7 +5,7 @@ body{
     
 }
 p{
-    color:rgba(0, 0, 0, 1);
+    color:rgba(255, 241, 194, 1);
 font-weight: 100 
 }
 
@@ -15,4 +15,5 @@ div
     max-width: 600px;
     margin: auto;
 }
+
 
